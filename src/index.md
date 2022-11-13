@@ -7,31 +7,29 @@ eleventyNavigation:
   key: Home
 ---
 
-<div class="row">
-  <h1>The Canonical Debate</h1>
-  <p>
-    A proposal to improve the current state of online discourse through the
-    promotion of fact-based reasoning, and the accumulation of human
-    knowledge, brought to you by the Canonical Debate Lab, a community
-    project of the Democracy Earth Foundation.
-  </p>
-  <p>
-    We waste so much time repeating old arguments and running in
-    opposite directions. The internet looked like it would ease the
-    problem by giving us access to vast knowledge and each of us a
-    voice. It seems to have made the situation worse by overwhelming us
-    with disorganized, contradictory information. Social media amplifies
-    bias and creates echo chambers. The Canonical Debate Lab is building
-    a resource to gather and organize all information for all sides of
-    contentious issues so everyone can make better decisions with less
-    effort. This tool reverses many of the natural incentives of social
-    networks that have led to information bubbles, clickbait headlines,
-    sensationalist journalism, and "fake news." We believe that with
-    this tool, we can finally fulfill the promise that was given with
-    the rise of the Internet.
-  </p>
+# The Canonical Debate Lab (CDL)
 
-  <h2>Discover More</h2>
+A proposal to improve the current state of online discourse through the
+promotion of fact-based reasoning, and the accumulation of human
+knowledge, brought to you by the Canonical Debate Lab, a community
+project of the Democracy Earth Foundation.
+
+We waste so much time repeating old arguments and running in
+opposite directions. The internet looked like it would ease the
+problem by giving us access to vast knowledge and each of us a
+voice. It seems to have made the situation worse by overwhelming us
+with disorganized, contradictory information. Social media amplifies
+bias and creates echo chambers. The Canonical Debate Lab is building
+a resource to gather and organize all information for all sides of
+contentious issues so everyone can make better decisions with less
+effort. This tool reverses many of the natural incentives of social
+networks that have led to information bubbles, clickbait headlines,
+sensationalist journalism, and "fake news." We believe that with
+this tool, we can finally fulfill the promise that was given with
+the rise of the Internet.
+
+## Discover More
+
   <p>
     <a href="https://medium.com/canonical-debate-lab">
       Blog
@@ -51,7 +49,8 @@ eleventyNavigation:
     <a href="https://canonicaldebate.com">Live Demo Site</a>
   </p>
 
-  <h2>Partner Sites</h2>
+## Partner Sites
+
   <p>
     <a href="https://socratrees.azurewebsites.net/">Socratrees</a>
     <br />

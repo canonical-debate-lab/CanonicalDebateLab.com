@@ -5,20 +5,22 @@ eleventyNavigation:
   order: 1
 ---
 
-  <h1>About Canonical Debate Lab (CDL)</h1>
-  <p>
-    The Canonical Debate Lab is a community of people that have come
-    together to define a single canonical place to focus and
-    organize all the information relevant to claims so that the
-    collective knowledge of the world can accumulate. Wikipedia is
-    the de-facto canonical location for reference information. It is
-    time to define a similar platform for disputed facts and other
-    topics of debate.
-  </p>
+# About Canonical Debate Lab (CDL)
 
-  <h2>Members</h2>
+The Canonical Debate Lab is a community of people that have come
+together to define a single canonical place to focus and
+organize all the information relevant to claims so that the
+collective knowledge of the world can accumulate. Wikipedia is
+the de-facto canonical location for reference information. It is
+time to define a similar platform for disputed facts and other
+topics of debate.
 
-  <h3>Timothy High</h3>
+## Members
+
+---
+
+### Timothy High
+
   <p>
     <img
       width="400"
@@ -60,7 +62,9 @@ eleventyNavigation:
       <a href="http://timhigh.wordpress.com/">Original Blog</a>
     </li>
   </ul>
-  <h3>Stephen Wicklund</h3>
+
+### Stephen Wicklund
+
   <p>
     <img
       width="400"
@@ -102,7 +106,8 @@ eleventyNavigation:
     </li>
   </ul>
 
-  <h3>Oz Fraier</h3>
+### Oz Fraier
+
   <p>
     <img
       width="400"
@@ -146,7 +151,8 @@ eleventyNavigation:
     </li>
   </ul>
 
-  <h3>Bentley Davis</h3>
+### Bentley Davis
+
   <p>
     <img
       width="400"
@@ -192,7 +198,8 @@ eleventyNavigation:
     </li>
   </ul>
 
-  <h3>Jamie Joyce</h3>
+### Jamie Joyce
+
   <p>
     <img width="400" src="/about/JamieJoyce.jpg" alt="jamie" />
   </p>
@@ -222,7 +229,8 @@ eleventyNavigation:
     </li>
   </ul>
 
-  <h3>Whysaurus</h3>
+### Whysaurus
+
   <p>
     <img width="400" src="/about/Whysaurus.png" alt="whysaurus" />
   </p>
@@ -239,8 +247,4 @@ eleventyNavigation:
       <a href="https://www.whysaurus.com/">Whysaurus</a>
     </li>
   </ul>
-  <hr class="border-primary" />
-  <a href="https://github.com/canonical-debate-lab/website/blob/master/src/pages/about.js">
-    Edit this page on GitHub
-  </a>
 </div>
