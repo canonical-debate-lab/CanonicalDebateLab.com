@@ -14,8 +14,8 @@ console.log('pathPrefix is set to ...', pathPrefix);
 // see "eleventyConfig.addGlobalData("site", globalData);"" below
 // related: https://github.com/11ty/eleventy/issues/1641
 const globalSiteData = {
-  title: "11ty-plain-bootstrap5",
-  description: "Template for static site generator Eleventy with Boostrap 5 and SCSS/JS compilation via laravel-mix.",
+  title: "Canonical Debate Lab",
+  description: "A proposal to improve the current state of online discourse through the promotion of fact-based reasoning",
   locale: 'en',
   baseUrl: baseUrl,
   pathPrefix: pathPrefix,
@@ -70,7 +70,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("dist/"); // path is relative from root
 
   // Copy (static) files to output (_site)
-  eleventyConfig.addPassthroughCopy("src/assets");
+  eleventyConfig.addPassthroughCopy({ "src/assets": "/" });
 
   // Copy transformed images
   // TODO: this is executed too soon? imgs not there?
