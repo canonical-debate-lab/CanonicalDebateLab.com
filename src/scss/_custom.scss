@@ -27,14 +27,24 @@
       border-radius: 0.3rem !important;
     }
   }
+
   picture {
     width: 100%;
     height: 100%;
     display: flex;
   }
+
   picture img {
     object-fit: cover;
     height: auto;
     width: 100%;
   }
+}
+
+a:not([class]) {
+  text-decoration: none;
+}
+
+a:not([class]):hover {
+  text-decoration: underline;
 }
