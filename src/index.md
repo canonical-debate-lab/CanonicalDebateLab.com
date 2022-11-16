@@ -34,6 +34,7 @@ the rise of the Internet.
     <a href="https://medium.com/canonical-debate-lab">
       Blog
     </a>
+    <br />
     <a href="https://github.com/canonical-debate-lab/paper/blob/master/README.mediawiki">
       White Paper
     </a>
@@ -47,6 +48,7 @@ the rise of the Internet.
     </a>
     <br />
     <a href="https://canonicaldebate.com">Live Demo Site</a>
+
   </p>
 
 ## Partner Sites
