@@ -1,5 +1,4 @@
 ---
-layout: base
 eleventyNavigation:
   key: Blog
   order: 3

@@ -4,7 +4,7 @@
   "description": "Plain simple template for 11ty/eleventy and bootstrap5.",
   "main": "index.js",
   "scripts": {
-    "clean": "rm -rf dist",
+    "clean": "rd /s /q dist 2>null",
     "dev": "npm-run-all clean -p dev:*",
     "dev:eleventy": "eleventy --serve --quiet",
     "dev:mix": "mix watch",
